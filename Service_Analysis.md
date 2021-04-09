@@ -11,7 +11,7 @@ This is a detailed service analysis of the **BERGER** painting services as a con
     <a href="#History">History</a>
     </li>
     <li>
-    <a href="#Survey Analysis Chart">Survey Analysis Chart</a>
+    <a href="#Service Analysis Chart">Service Analysis Chart</a>
   </ol>  
 </details>
 
