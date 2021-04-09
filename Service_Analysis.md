@@ -1,6 +1,6 @@
 # BERGER SERVICE ANALYSIS
 
-This is a detailed survey analysis of the **BERGER** painting services as a consumer myself.
+This is a detailed service analysis of the **BERGER** painting services as a consumer myself.
 
 ![Berger Logo](https://seekvectorlogo.net/wp-content/uploads/2018/12/berger-paints-vector-logo.png)
 
