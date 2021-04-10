@@ -11,7 +11,7 @@ This is a detailed service analysis of the **BERGER** painting services as a con
     <a href="#History">History</a>
     </li>
     <li>
-    <a href="#Service Analysis Chart">Service_Analysis_Chart</a>
+    <a href="#Survey Analysis Chart">Survey Analysis Chart</a>
   </ol>  
 </details>
 
@@ -50,6 +50,12 @@ The link for **Berger Paints** is mentioned below:
 ---
 ---
 
+The link for my self analysis is mentioned below:
+
+[Self Service Analysis](https://github.com/Aayon-Mukherjee/Selfservice/tree/main#readme)
+
+---
+---
 *Thank You,*
 
 *Aayon*
