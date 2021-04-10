@@ -50,7 +50,7 @@ The link for **Berger Paints** is mentioned below:
 ---
 ---
 
-The link for my self analysis is mentioned below:
+The link for my self service analysis is mentioned below:
 
 [Self Service Analysis](https://github.com/Aayon-Mukherjee/Selfservice/tree/main#readme)
 
